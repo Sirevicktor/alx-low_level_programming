@@ -1,21 +1,3 @@
-
-Abasienyene
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-alx-low_level_programming/0x06-pointers_arrays_strings/main.h
-@Abasienyene
-Abasienyene main file
- 1 contributor
-284 lines (283 sloc)  5.08 KB
 #ifndef _HOLBERTON_H_
 #define _HOLBERTON_H_
 /**
